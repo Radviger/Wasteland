@@ -1,0 +1,13 @@
+{
+  "weather.sandstorm": {
+    "category": "weather",
+    "subtitle": "wastelands.subtitle.weather_sandstorm",
+    "sounds": [
+      { "name": "wastelands:sandstorm1", "stream": true },
+      { "name": "wastelands:sandstorm2", "stream": true },
+      { "name": "wastelands:sandstorm3", "stream": true },
+      { "name": "wastelands:sandstorm4", "stream": true },
+      { "name": "wastelands:sandstorm5", "stream": true }
+    ]
+  }
+}
